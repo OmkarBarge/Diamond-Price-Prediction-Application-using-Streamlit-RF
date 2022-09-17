@@ -1,1 +1,2 @@
-# Diamond-Price-Prediction-Application-using-Streamlit-RF
+# Diamond-Price-Prediction-Application-using-Streamlit
+Model Use :- Random Forest
