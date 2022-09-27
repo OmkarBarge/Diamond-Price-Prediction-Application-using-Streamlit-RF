@@ -3,4 +3,10 @@ Model Use :- Random Forest<br>
 Deployed on Heroku / website:- https://diamondprediction-rf.herokuapp.com/
 <img src="https://github.com/OmkarBarge/Diamond-Price-Prediction-Application-using-Streamlit-RF/blob/main/dpp-rf.png">
 <br>
-Note:- Main Model 'random forest' is not added to repo bcoz big file size, i tired using git lfs but error is occuring, iam rectifying the issue.Thankyou
+Note:- Main Model 'random forest' is not added to repo bcoz big file size, i tired using git lfs but error is occuring, iam rectifying the issue.Thankyou<br>
+
+MLFlow Dashboard<br>
+<img src="https://github.com/OmkarBarge/Diamond-Price-Prediction-Application-using-Streamlit-RF/blob/main/img/mlflowdash.png"><br>
+
+Prefect Dashboard<br>
+<img src="https://github.com/OmkarBarge/Diamond-Price-Prediction-Application-using-Streamlit-RF/blob/main/img/prefectdash.png">
